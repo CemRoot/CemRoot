@@ -1,10 +1,7 @@
 [![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=CemRoot)](https://github.com/anuraghazra/github-readme-stats)
 ![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?username=CemRoot&show_icons=true)(https://github-readme-stats.vercel.app/api?username=CemRoot&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacagri)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacagri&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacagri&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mustafacagri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ### Here Is What I'm Working On 👋
