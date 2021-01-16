@@ -1,6 +1,3 @@
-[![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=CemRoot)](https://github.com/anuraghazra/github-readme-stats)
-![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?username=CemRoot&show_icons=true)(https://github-readme-stats.vercel.app/api?username=CemRoot&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CemRoot&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -19,6 +16,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... [LINKEDıN] (https://www.linkedin.com/in/cem-köylüoğlu-a050b01ba/)
 - 😄 Pronouns: ... He/Him
 
+
+[![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=CemRoot)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CemRoot&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CemRoot&repo=github-readme-stats" />
