@@ -1,7 +1,7 @@
 [![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=CemRoot)](https://github.com/anuraghazra/github-readme-stats)
 ![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?username=CemRoot&show_icons=true)(https://github-readme-stats.vercel.app/api?username=CemRoot&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CemRoot&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=CemRoot)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
