@@ -1,5 +1,5 @@
 [![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=CemRoot)](https://github.com/anuraghazra/github-readme-stats)
-
+![mustafacagri's github stats](https://github-readme-stats.vercel.app/api?username=CemRoot&show_icons=true)
 
 
 ### Here Is What I'm Working On 👋
