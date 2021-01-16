@@ -1,3 +1,6 @@
+[![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=CemRoot)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Here Is What I'm Working On 👋
 
 
