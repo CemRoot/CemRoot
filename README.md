@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 [![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=CemRoot)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CemRoot&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
+
 
