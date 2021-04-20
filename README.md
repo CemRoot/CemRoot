@@ -4,7 +4,7 @@
 Sᴏғᴛᴡᴀʀᴇ Eɴɢɪɴɴᴇʀ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | Dᴇᴇᴘ Lᴇᴀʀɴɪɴɢ | Aʀᴛɪғɪᴄɪᴀʟ Iɴᴛᴇʟʟɪɢᴇɴᴄᴇ | Tᴇɴꜱᴏʀғʟᴏᴡ ||
 </em></p>
 <a href="https://twitter.com/Cockroachs_">
-  <img align="left" alt="Cem's Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Cem's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/cem-koyluoglu/">
   <img align="left" alt="Cem's Linkdein" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
