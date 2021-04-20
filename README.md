@@ -25,7 +25,40 @@ Sᴏғᴛᴡᴀʀᴇ Eɴɢɪɴɴᴇʀ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | D�
 
 
 
-B.E. 3rd year Computer Engineering student. Passionate about Data Science, Machine Learning and open source. Also, have some experience in Android Development with flutter and Data Analysis. Currently learning new technologies to implement on real world projects. **Love** to contribute to open-source.
+Bachelor's Degrees 2nd year Software Engineering student. Passionate about Artificial Intelligence, Deep Learning, Machine Learning and open source. Also, have some experience in Artificial Intelligence with YOLO,OpenCV,Computer Vision and Data Analysis. Currently learning new technologies to implement on real world projects. **Love** to contribute to open-source.
+## Technologies 🔥🔥🔥
+- MySQL
+- C++
+- Python.
+- Machine Learning
+- Deep Learning
+- Data Science.
+- Artificial Intelligence.
+- YOLO
+- OpenCV
+
+
+## Talking about personal stuff 💻🗣️
+-  My interests are with Natural Language Processing/Understanding, Computer vision, Deep Learning, etc..;
+- While Coding, Listening Music and developing useful code.⭐️
+- Just loved to Explore new Tech Stacks.💻
+- Always Willing to help (Altruistic). ✋
+- 👨🏽‍💻 I’m currently working on improving my techskill;
+- 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between😸😸
+
+
+**Languages and Tools:**  
+
+<code><img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kaggle.svg"></code>
+<code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/heroku.svg"></code>
+
+
+
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
