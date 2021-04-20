@@ -55,7 +55,7 @@ Bachelor's Degrees 2nd year Software Engineering student. Passionate about Artif
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kaggle.svg"></code>
-<code><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/heroku.svg"></code>
+<code><img height="50" src="https://camo.githubusercontent.com/5ff8c4958c84d260a95ab0a2413c37728b9f43c25c5f82e20ca9c0918a76e84d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f312f31382f49534f5f432532422532425f4c6f676f2e7376672f3132303070782d49534f5f432532422532425f4c6f676f2e7376672e706e67"></code>
 
 
 
