@@ -1,10 +1,8 @@
 
 <h2> Hello People, I'm Cem Koyluoglu ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-
+Sᴏғᴛᴡᴀʀᴇ Eɴɢɪɴɴᴇʀ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | Dᴇᴇᴘ Lᴇᴀʀɴɪɴɢ | Aʀᴛɪғɪᴄɪᴀʟ Iɴᴛᴇʟʟɪɢᴇɴᴄᴇ | Tᴇɴꜱᴏʀғʟᴏᴡ ||
 </em></p>
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
-
 <a href="https://twitter.com/Cockroachs_">
   <img align="left" alt="Cem's Twitter" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -20,7 +18,10 @@
 
 <br/>
 <br/>
-Sᴏғᴛᴡᴀʀᴇ Eɴɢɪɴɴᴇʀ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | Dᴇᴇᴘ Lᴇᴀʀɴɪɴɢ | Aʀᴛɪғɪᴄɪᴀʟ Iɴᴛᴇʟʟɪɢᴇɴᴄᴇ | Tᴇɴꜱᴏʀғʟᴏᴡ ||
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+
+
+
 
 B.E. 3rd year Computer Engineering student. Passionate about Data Science, Machine Learning and open source. Also, have some experience in Android Development with flutter and Data Analysis. Currently learning new technologies to implement on real world projects. **Love** to contribute to open-source.
 
