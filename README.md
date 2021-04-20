@@ -49,12 +49,12 @@ Bachelor's Degrees 2nd year Software Engineering student. Passionate about Artif
 
 **Languages and Tools:**  
 
-<code><img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="50" src="https://camo.githubusercontent.com/5ff8c4958c84d260a95ab0a2413c37728b9f43c25c5f82e20ca9c0918a76e84d/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f312f31382f49534f5f432532422532425f4c6f676f2e7376672f3132303070782d49534f5f432532422532425f4c6f676f2e7376672e706e67"></code>
 <code><img height="50" src="https://camo.githubusercontent.com/529169c2a80821cf3cfe92699f491753f32f927cd3871bff455ce6fd5aa469aa/68747470733a2f2f7777772e6c6f676f2e77696e652f612f6c6f676f2f4d7953514c2f4d7953514c2d4c6f676f2e77696e652e737667"></code>
 <code><img height="50" src="https://camo.githubusercontent.com/ccb96d9311035ff4ff55e0bdba344c8d951eafc60f1fe778d3ec322a497c36a1/68747470733a2f2f63646e322e69636f6e66696e6465722e636f6d2f646174612f69636f6e732f66696c652d657874656e73696f6e2d312f33362f46696c655f647563756d656e745f66696c65747970655f66696c65657874656e73696f6e5f657874656e73696f6e5f61736d2d3531322e706e67"></code>
+<code><img height="50" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
 <code><img height="50" src="https://camo.githubusercontent.com/83b64f5bad2cf72ed0078b3d3dcbcf91f0237d9d0e65bc3f015e781e2848e350/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f332f33352f5475782e7376672f38303070782d5475782e7376672e706e67"></code>
 <code><img height="50" src="https://camo.githubusercontent.com/6654077c582dc7a931a7f54d124ef1df886e09989128f3281e25f8390e41da8b/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f76697375616c2d73747564696f2e706e67"></code>
 
