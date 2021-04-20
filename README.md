@@ -20,8 +20,9 @@
 
 <br/>
 <br/>
+Sᴏғᴛᴡᴀʀᴇ Eɴɢɪɴɴᴇʀ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | Dᴇᴇᴘ Lᴇᴀʀɴɪɴɢ | Aʀᴛɪғɪᴄɪᴀʟ Iɴᴛᴇʟʟɪɢᴇɴᴄᴇ | Tᴇɴꜱᴏʀғʟᴏᴡ ||
 
-
+B.E. 3rd year Computer Engineering student. Passionate about Data Science, Machine Learning and open source. Also, have some experience in Android Development with flutter and Data Analysis. Currently learning new technologies to implement on real world projects. **Love** to contribute to open-source.
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
