@@ -1,8 +1,15 @@
 
-<h2> Hello People, I'm Cem Koyluoglu ! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-Sᴏғᴛᴡᴀʀᴇ Eɴɢɪɴɴᴇʀ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | Dᴇᴇᴘ Lᴇᴀʀɴɪɴɢ | Aʀᴛɪғɪᴄɪᴀʟ Iɴᴛᴇʟʟɪɢᴇɴᴄᴇ | Tᴇɴꜱᴏʀғʟᴏᴡ ||
-</em></p>
+
+
+<h2> Hello People, I'm Cem Koyluoglu ! </em></<p><img align='center' src="https://profile-counter.glitch.me/{CemRoot}/count.svg" alt="CemRoot :: Visitor's Count" />
+<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 
+
+
+Sᴏғᴛᴡᴀʀᴇ Eɴɢɪɴɴᴇʀ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | Dᴇᴇᴘ Lᴇᴀʀɴɪɴɢ | Aʀᴛɪғɪᴄɪᴀʟ Iɴᴛᴇʟʟɪɢᴇɴᴄᴇ | Tᴇɴꜱᴏʀғʟᴏᴡ || 
+
+
 <a href="https://twitter.com/Cockroachs_">
   <img align="left" alt="Cem's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -16,6 +23,7 @@ Sᴏғᴛᴡᴀʀᴇ Eɴɢɪɴɴᴇʀ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | D�
   <img align="left" alt="Cem's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+
 <br/>
 <br/>
 
@@ -25,7 +33,9 @@ Sᴏғᴛᴡᴀʀᴇ Eɴɢɪɴɴᴇʀ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | D�
 
 
 
+
 Bachelor's Degrees 3rd/4 year Software Engineering student. Passionate about Artificial Intelligence, Deep Learning, Machine Learning and open source. Also, have some experience in Artificial Intelligence with YOLO,OpenCV,Computer Vision and Data Analysis. Currently learning new technologies to implement on real world projects. **Love** to contribute to open-source.
+
 ## Technologies 🔥🔥🔥
 - MySQL
 - C++
@@ -38,6 +48,8 @@ Bachelor's Degrees 3rd/4 year Software Engineering student. Passionate about Art
 - OpenCV
 
 
+
+
 ## Talking about personal stuff 💻🗣️
 -  My interests are with Natural Language Processing/Understanding, Computer vision, Deep Learning, etc..;
 - While Coding, Listening Music and developing useful code.⭐️
@@ -45,6 +57,8 @@ Bachelor's Degrees 3rd/4 year Software Engineering student. Passionate about Art
 - Always Willing to help (Altruistic). ✋
 - 👨🏽‍💻 I’m currently working on improving my techskill;
 - 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between😸😸
+
+
 
 
 **Languages and Tools:**  
@@ -65,23 +79,13 @@ Bachelor's Degrees 3rd/4 year Software Engineering student. Passionate about Art
 
 
 <h2 align="center">Github stats :bar_chart:</h2>
-
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{CemRoot}/count.svg" alt="CemRoot :: Visitor's Count" /></p>
-
-<h4 align="center">Top langs :tongue:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CemRoot&langs_count=10&theme=tokyonight&layout=compact" alt="CemRoot :: Top Langs" /></p>
-
-<h4 align="center">Profile stats :musical_keyboard:</h4>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=CemRoot&show_icons=true&theme=synthwave" alt="CemRoot :: Profile Stats" /></p>
-
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+<a href="https://app.daily.dev/SAMROOT"><img align='right' src="https://api.daily.dev/devcards/0c7d65a2e2884386b07d1c99e1f79007.png?r=i8x" width="350" alt="Cem koyluoglu's Dev Card"/></a>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CemRoot&langs_count=10&theme=tokyonight&layout=compact" alt="CemRoot :: Top Langs" /></p>
+<h4 align="left">Profile stats :musical_keyboard:</h4>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=CemRoot&show_icons=true&theme=synthwave" alt="CemRoot :: Profile Stats" /></p>
 
 ---
 ##  Let's connect :speech_balloon:
 [![Twitter Badge](https://img.shields.io/badge/-@Cockroachs_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Cockroachs_)](https://twitter.com/Cockroachs_) [![Linkedin Badge](https://img.shields.io/badge/-CemKoyluoglu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cem-koyluoglu/)](https://www.linkedin.com/in/cem-koyluoglu/) [![Gmail Badge](https://img.shields.io/badge/-emincem@live.com/koyluoglu.cem@lll.kpi.ua-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emincem@live.com)](mailto:koyluoglu.cem@lll.kpi.ua) [![Instagram Badge](https://img.shields.io/badge/-_k._sam-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/_k._sam/)](https://www.instagram.com/_k._sam/)
 
-https://api.daily.dev/devcards/0c7d65a2e2884386b07d1c99e1f79007.png?r=1jk
+
