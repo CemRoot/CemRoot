@@ -83,3 +83,6 @@ Bachelor's Degrees 3rd/4 year Software Engineering student. Passionate about Art
 ---
 ##  Let's connect :speech_balloon:
 [![Twitter Badge](https://img.shields.io/badge/-@Cockroachs_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Cockroachs_)](https://twitter.com/Cockroachs_) [![Linkedin Badge](https://img.shields.io/badge/-CemKoyluoglu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cem-koyluoglu/)](https://www.linkedin.com/in/cem-koyluoglu/) [![Gmail Badge](https://img.shields.io/badge/-emincem@live.com/koyluoglu.cem@lll.kpi.ua-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emincem@live.com)](mailto:koyluoglu.cem@lll.kpi.ua) [![Instagram Badge](https://img.shields.io/badge/-_k._sam-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/_k._sam/)](https://www.instagram.com/_k._sam/)
+
+
+https://api.daily.dev/devcards/0c7d65a2e2884386b07d1c99e1f79007.png?r=1jk
