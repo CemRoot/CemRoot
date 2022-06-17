@@ -79,7 +79,7 @@ Bachelor's Degrees 3rd/4 year Software Engineering student. Passionate about Art
 
 
 <h2 align="center">Github stats :bar_chart:</h2>
-<a href="https://app.daily.dev/SAMROOT"><img align='right' src="https://api.daily.dev/devcards/0c7d65a2e2884386b07d1c99e1f79007.png?r=i8x" width="340" alt="Cem koyluoglu's Dev Card"/></a>
+<a href="https://app.daily.dev/SAMROOT"><img align='right' src="https://api.daily.dev/devcards/0c7d65a2e2884386b07d1c99e1f79007.png?r=i8x" width="338" alt="Cem koyluoglu's Dev Card"/></a>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CemRoot&langs_count=10&theme=tokyonight&layout=compact" alt="CemRoot :: Top Langs" /></p>
 <h4 align="left">Profile stats :musical_keyboard:</h4>
