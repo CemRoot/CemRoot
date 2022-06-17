@@ -16,8 +16,8 @@ Sᴏғᴛᴡᴀʀᴇ Eɴɢɪɴɴᴇʀ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | D�
 <a href="https://www.linkedin.com/in/cem-koyluoglu/">
   <img align="left" alt="Cem's Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/CemRoot">
-  <img align="left" alt="Cem's Github" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="http://discordapp.com/users/yourID4371">
+  <img align="left" alt="Cem's Discord" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
 <a href="https://www.instagram.com/_k._sam/">
   <img align="left" alt="Cem's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
