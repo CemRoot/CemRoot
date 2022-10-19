@@ -34,7 +34,7 @@ Sᴏғᴛᴡᴀʀᴇ Eɴɢɪɴɴᴇʀ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | D�
 
 
 
-Bachelor's Degrees 4/4 year Software Engineering student. Passionate about Artificial Intelligence, Deep Learning, Machine Learning and open source. Also, have some experience in Artificial Intelligence with YOLO,OpenCV,Computer Vision and Data Analysis. Currently learning new technologies to implement on real world projects. **Love** to contribute to open-source.
+Bachelor's Degree 4/4 year Software Engineering student. Passionate about Artificial Intelligence, Deep Learning, Machine Learning, and open source. Also, have some experience in Artificial Intelligence with YOLO, OpenCV, Computer Vision, and Data Analysis. Currently learning new technologies to implement on real-world projects. **Love** to contribute to open-source.
 
 ## Technologies 🔥🔥🔥
 - MySQL
