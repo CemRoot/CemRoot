@@ -1,17 +1,20 @@
+<!-- HEADER SECTION START -->
+<!-- Profile Title with Typing Animation -->
+# Hi there, I'm Cem Koyluoglu! 👋
 
+<!-- Animated Role Description -->
+<div align="center">
+  <!-- Typing SVG - Animated roles -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=AI+Developer;Machine+Learning+Engineer;Deep+Learning+Specialist;Computer+Vision+Expert;Open+Source+Contributor" alt="Typing SVG" />
+</div>
 
-<!-- başlık --> 
-<h2> Hello People, I'm Cem Koyluoglu !
-<!-- SAYAÇ --> 
-</em></<p><img align='center' src="https://profile-counter.glitch.me/{CemRoot}/count.svg" alt="CemRoot :: Visitor's Count" />
-<!-- Mario Gif --> 
-<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<!-- kod yazan Gif --> 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> 
+<!-- Profile Counter -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/{CemRoot}/count.svg" alt="CemRoot :: Visitor's Count" />
+</p>
+<!-- HEADER SECTION END -->
 
-<!-- Başlık --> 
-Sᴏғᴛᴡᴀʀᴇ Eɴɢɪɴɴᴇʀ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | Dᴇᴇᴘ Lᴇᴀʀɴɪɴɢ | Aʀᴛɪғɪᴄɪᴀʟ Iɴᴛᴇʟʟɪɢᴇɴᴄᴇ | Tᴇɴꜱᴏʀғʟᴏᴡ || 
-
+<!-- SOCIAL LINKS SECTION START -->
 <!-- Sosyal medya başlangıç --> 
 <a href="https://twitter.com/Cockroachs_">
   <img align="left" alt="Cem's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -26,88 +29,368 @@ Sᴏғᴛᴡᴀʀᴇ Eɴɢɪɴɴᴇʀ | Mᴀᴄʜɪɴᴇ Lᴇᴀʀɴɪɴɢ | D�
   <img align="left" alt="Cem's Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-
 <br>
 <br/>
-<!-- Sosyal medya bitiş --> 
+<!-- SOCIAL LINKS SECTION END -->
 
-<!-- Hakkımda yazının kedi gif --> 
+<!-- ABOUT ME SECTION START -->
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
+<!-- Professional Summary -->
+I'm a passionate AI Developer specializing in **Artificial Intelligence**, **Deep Learning**, and **Machine Learning**. I love building intelligent systems and contributing to open-source projects that make a difference.
 
+<!-- Personal Info as Python Class -->
+```python
+class CemKoyluoglu:
+    def __init__(self):
+        self.role = "AI Developer"
+        self.specializations = ["Machine Learning", "Deep Learning", "Computer Vision", "NLP"]
+        self.languages = ["Python", "R", "C++", "JavaScript", "SQL", "Julia"]
+        self.current_focus = "Building next-gen AI solutions"
+        self.interests = ["Generative AI", "LLMs", "Neural Networks", "MLOps"]
+        self.fun_fact = "I code while listening to music 🎵"
+```
+<!-- ABOUT ME SECTION END -->
 
-<!-- Hakkımda yazısı --> 
-Passionate about Artificial Intelligence, Deep Learning, Machine Learning, and open source. Also, have some experience in Artificial Intelligence with YOLO, OpenCV, Computer Vision, and Data Analysis. Currently learning new technologies to implement on real-world projects. **Love** to contribute to open-source.
+<!-- TECH STACK SECTION START -->
+## 💻 Tech Stack
 
-<!-- Bildiğim diller --> 
-## Languages 🔥
-<div>
-<!-- Python resmi --> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<!-- R resmi  -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="r" alt="r" width="40" height="40"/>&nbsp;
-<!-- C++ Resmi --> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="cpp" alt="cpp" width="40" height="40"/>&nbsp;
-<!-- HTML-css-JS -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="js" alt="js" width="40" height="40"/>&nbsp;
-<!-- SQL --> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="sql" alt="sql" width="40" height="40"/>&nbsp;
+<!-- Programming Languages Subsection -->
+### Languages
+<div align="left">
+  <!-- Python Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <!-- R Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="r logo"  />
+  <img width="12" />
+  <!-- C++ Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <!-- JavaScript Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <!-- TypeScript Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <!-- Julia Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="40" alt="julia logo"  />
+  <img width="12" />
+  <!-- HTML5 Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <!-- CSS3 Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <!-- MySQL Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <!-- PostgreSQL Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
-### Framworks 
-<div>
-<!-- Django -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django" alt="django" width="40" height="40"/>&nbsp;
-<!-- Flask -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask" alt="flask" width="40" height="40"/>&nbsp;
-<!-- Bottle --> 
-<!-- Pytorch -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original-wordmark.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/>&nbsp;
-<!-- TensorFlow --> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensor" alt="flow" width="40" height="40"/>&nbsp;
-<!-- Numpy -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="num" alt="py" width="40" height="40"/>&nbsp;
-<!-- Keras --> 
-<!-- Pandas --> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="pandas" alt="pandas" width="40" height="40"/>&nbsp;
+<!-- AI/ML Frameworks Subsection -->
+### AI/ML Frameworks & Libraries
+<div align="left">
+  <!-- TensorFlow Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <!-- PyTorch Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <!-- Keras Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="keras logo"  />
+  <img width="12" />
+  <!-- OpenCV Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
+  <img width="12" />
+  <!-- Scikit-learn Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="scikit-learn logo"  />
+  <img width="12" />
+  <!-- Jupyter Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img width="12" />
+  <!-- Anaconda Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img width="12" />
+  <!-- Matplotlib Logo -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" height="40" alt="matplotlib logo"  />
+  <img width="12" />
+  <!-- Hugging Face Logo -->
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="huggingface logo"  />
 </div>
 
-## Tools
+<!-- AI Tools & Platforms Subsection -->
+### AI Tools & Platforms
+<div align="left">
+  <!-- OpenAI/ChatGPT Logo -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" height="40" alt="chatgpt logo"  />
+  <img width="12" />
+  <!-- Claude Logo -->
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.svg" height="40" alt="claude logo"  />
+  <img width="12" />
+  <!-- Google Colab Logo -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="40" alt="google colab logo"  />
+  <img width="12" />
+  <!-- MLflow Logo -->
+  <img src="https://mlflow.org/img/mlflow-black.svg" height="40" alt="mlflow logo"  />
+  <img width="12" />
+  <!-- Weights & Biases Logo -->
+  <img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-dots-logo.svg" height="40" alt="wandb logo"  />
+</div>
 
-### Version Control Tool:
-<!-- git/ github / gitbucket -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-### Testing Tool: 
-<!--Selenium-->
-<img src="https://github.com/devicons/devicon/blob/master/icons/selenium/selenium-original.svg" title="Se" alt="se" width="40" height="40"/>&nbsp;
-### API Control:
-<!-- postman --> 
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>&nbsp;
+<!-- Data Science Libraries Subsection -->
+### Data Science Libraries
+<div align="left">
+  <!-- NumPy Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
+  <img width="12" />
+  <!-- Pandas Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <!-- Seaborn Logo -->
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="seaborn logo"  />
+  <img width="12" />
+  <!-- Plotly Logo -->
+  <img src="https://www.vectorlogo.zone/logos/plotly/plotly-icon.svg" height="40" alt="plotly logo"  />
+  <img width="12" />
+  <!-- Apache Spark Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="spark logo"  />
+</div>
 
-<!-- İstatistikler -->
-## Talking about personal stuff 💻🗣️
--  My interests are with Natural Language Processing/Understanding, Computer vision, Deep Learning, etc..;
-- While Coding, Listening Music and developing useful code.⭐️
-- Just loved to Explore new Tech Stacks.💻
-- Always Willing to help (Altruistic). ✋
-- 👨🏽‍💻 I’m currently working on improving my techskill;
-- 💬 Talk to me about if Earth actually is flat, would headlights work at light speed, and everything in between😸😸
+<!-- Web Development Frameworks Subsection -->
+### Web Frameworks & Backend
+<div align="left">
+  <!-- Django Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <!-- Flask Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <!-- FastAPI Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+  <img width="12" />
+  <!-- Streamlit Logo -->
+  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="40" alt="streamlit logo"  />
+  <img width="12" />
+  <!-- Node.js Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <!-- Express.js Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <!-- GraphQL Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
+  <img width="12" />
+  <!-- React Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
 
-<!-- Github stats -->
+<!-- Development Tools Subsection -->
+### Development Tools & IDEs
+<div align="left">
+  <!-- PyCharm Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <!-- VS Code Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <!-- Cursor Logo -->
+  <img src="https://www.cursor.so/brand/icon.svg" height="40" alt="cursor logo"  />
+  <img width="12" />
+  <!-- Git Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <!-- GitHub Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <!-- GitLab Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+  <img width="12" />
+  <!-- Docker Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <!-- Kubernetes Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+</div>
 
-<h2 align="center">Github stats :bar_chart:</h2>
-<a href="https://app.daily.dev/samroot"><img src="https://api.daily.dev/devcards/v2/pmxAGhODNQGYnQgSZ5fZv.png?r=j7x&type=default" width="356" alt="Cem koyluoglu's Dev Card"/></a>
+<!-- Cloud Platforms Subsection -->
+### Cloud & Deployment
+<div align="left">
+  <!-- AWS Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="aws logo"  />
+  <img width="12" />
+  <!-- Google Cloud Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="gcp logo"  />
+  <img width="12" />
+  <!-- Azure Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
+  <img width="12" />
+  <!-- Heroku Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" alt="heroku logo"  />
+  <img width="12" />
+  <!-- Vercel Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <!-- NGINX Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
+</div>
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CemRoot&langs_count=10&theme=tokyonight&layout=compact" alt="CemRoot :: Top Langs" /></p>
-<h4 align="left">Profile stats :musical_keyboard:</h4>
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=CemRoot&show_icons=true&theme=synthwave" alt="CemRoot :: Profile Stats" /></p>
+<!-- Automation & Integration Tools Subsection -->
+### Automation & Integration Tools
+<div align="left">
+  <!-- n8n Logo -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/N8n-logo-new.svg" height="40" alt="n8n logo"  />
+  <!-- Zapier Logo -->
+  <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" height="40" alt="zapier logo"  />
+</div>
 
-<!-- İletişim -->
+<!-- Design & Creative Tools Subsection -->
+### Design & Creative Tools
+<div align="left">
+  <!-- Freepik Logo -->
+  <img src="https://media.flaticon.com/dist/min/img/logo/flaticon_negative.svg" height="40" alt="freepik logo"  />
+  <img width="12" />
+  <!-- Figma Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <!-- Canva Logo -->
+  <img src="https://upload.wikimedia.org/wikipedia/en/b/bb/Canva_Logo.svg" height="40" alt="canva logo"  />
+</div>
 
-##  Let's connect :speech_balloon:
-[![Twitter Badge](https://img.shields.io/badge/-@Cockroachs_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Cockroachs_)](https://twitter.com/Cockroachs_) [![Linkedin Badge](https://img.shields.io/badge/-CemKoyluoglu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cem-koyluoglu/)](https://www.linkedin.com/in/cem-koyluoglu/) [![Gmail Badge](https://img.shields.io/badge/-emincem@live.com/koyluoglu.cem@lll.kpi.ua-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:emincem@live.com)](mailto:koyluoglu.cem@lll.kpi.ua) [![Instagram Badge](https://img.shields.io/badge/-instagram-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/sams_lorem/)](https://www.instagram.com/sams_lorem/)
+<!-- AI/ML Specialized Tools Subsection -->
+### AI/ML Platforms & Tools
+<div align="left">
+  <!-- MATLAB Logo -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" height="40" alt="matlab logo"  />
+  <img width="12" />
+  <!-- CUDA/NVIDIA Logo -->
+  <img src="https://www.vectorlogo.zone/logos/nvidia/nvidia-icon.svg" height="40" alt="cuda logo"  />
+  <img width="12" />
+  <!-- Apache Spark Logo -->
+  <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" height="40" alt="spark logo"  />
+  <img width="12" />
+  <!-- Databricks Logo -->
+  <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" height="40" alt="databricks logo"  />
+</div>
 
+<!-- Testing and Monitoring Tools Subsection -->
+### Testing & Monitoring
+<div align="left">
+  <!-- Pytest Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original.svg" height="40" alt="pytest logo"  />
+  <img width="12" />
+  <!-- Selenium Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
+  <img width="12" />
+  <!-- Postman Logo -->
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" height="40" alt="postman logo"  />
+  <img width="12" />
+  <!-- Grafana Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
+  <img width="12" />
+  <!-- Prometheus Logo -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
+</div>
+<!-- TECH STACK SECTION END -->
 
+<!-- CURRENT WORK SECTION START -->
+## 🔥 What I'm Currently Working On
+
+<!-- Current Projects List -->
+- 🤖 Building state-of-the-art AI models using Transformers and LLMs
+- 🧠 Developing Computer Vision solutions with YOLO, Detectron2, and custom architectures
+- 📊 Creating end-to-end ML pipelines with MLOps best practices
+- 🚀 Deploying AI models at scale using cloud services and edge computing
+- 💡 Researching Generative AI and implementing RAG systems
+- 🌐 Building AI-powered web applications with FastAPI and Streamlit
+- 📝 Contributing to open-source AI/ML projects and writing technical blogs
+<!-- CURRENT WORK SECTION END -->
+
+<!-- GITHUB STATS SECTION START -->
+## 📊 GitHub Analytics
+
+<!-- GitHub Stats Cards Container -->
+<div align="center">
+  <!-- GitHub Stats Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CemRoot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <!-- Top Languages Card -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CemRoot&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<!-- GitHub Streak Stats Container -->
+<div align="center">
+  <!-- Streak Stats Card -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CemRoot&theme=tokyonight" alt="GitHub Streak Stats"/>
+</div>
+<!-- GITHUB STATS SECTION END -->
+
+<!-- DEVCARD SECTION START -->
+<p align="center">
+  <!-- Daily.dev Developer Card -->
+  <a href="https://app.daily.dev/samroot"><img src="https://api.daily.dev/devcards/v2/pmxAGhODNQGYnQgSZ5fZv.png?type=wide&r=aa2" width="652" alt="Cem koyluoglu's Dev Card"/></a>
+  </a>
+</p>
+<!-- DEVCARD SECTION END -->
+
+<!-- ACHIEVEMENTS SECTION START -->
+## 🏆 GitHub Trophies
+
+<!-- GitHub Profile Trophy Container -->
+<div align="center">
+  <!-- Trophy Display -->
+  <img src="https://github-profile-trophy.vercel.app/?username=CemRoot&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+</div>
+<!-- ACHIEVEMENTS SECTION END -->
+
+<!-- CONTRIBUTION GRAPH SECTION START -->
+## 📈 Contribution Graph
+
+<!-- GitHub Activity Graph Container -->
+<div align="center">
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CemRoot&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+</div>
+<!-- CONTRIBUTION GRAPH SECTION END -->
+
+<!-- FUN FACTS SECTION START -->
+## 💡 Fun Facts About Me
+
+<!-- Personal Interests List -->
+- 🎵 I code better with music playing in the background
+- 🌍 Always curious about whether Earth is actually flat (spoiler: it's not!)
+- 💡 Love exploring new tech stacks and frameworks
+- 🤝 Always willing to help others in their coding journey
+- 🚀 Believe in the power of open-source collaboration
+<!-- FUN FACTS SECTION END -->
+
+<!-- CONTACT SECTION START -->
+## 📫 Let's Connect!
+
+<!-- Contact Information Container -->
+<div align="center">
+
+<!-- Contact Message -->
+I'm always open to interesting conversations and collaboration opportunities!
+
+<!-- Contact Reasons List -->
+Feel free to reach out if you want to:
+- 💬 Discuss AI/ML projects
+- 🤝 Collaborate on open-source
+- 💡 Share ideas about technology
+- ☕ Just have a chat about tech!
+
+</div>
+<!-- CONTACT SECTION END -->
+
+<!-- FOOTER SECTION START -->
+---
+
+<!-- Footer Animation Container -->
+<div align="center">
+  <!-- Animated Footer Message -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2D9EF7&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!" alt="Typing SVG" />
+</div>
+<!-- FOOTER SECTION END -->
