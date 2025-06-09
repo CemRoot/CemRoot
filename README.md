@@ -99,8 +99,7 @@ Passionate about Artificial Intelligence, Deep Learning, Machine Learning, and o
 <!-- Github stats -->
 
 <h2 align="center">Github stats :bar_chart:</h2>
-<a href="https://app.daily.dev/SAMROOT"><img align='right' src="https://api.daily.dev/devcards/0c7d65a2e2884386b07d1c99e1f79007.png?r=uvk" width="330" alt="Cem koyluoglu's Dev Card"/></a>
-
+<a href="https://app.daily.dev/samroot"><img src="https://api.daily.dev/devcards/v2/pmxAGhODNQGYnQgSZ5fZv.png?r=j7x&type=default" width="356" alt="Cem koyluoglu's Dev Card"/></a>
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CemRoot&langs_count=10&theme=tokyonight&layout=compact" alt="CemRoot :: Top Langs" /></p>
 <h4 align="left">Profile stats :musical_keyboard:</h4>
