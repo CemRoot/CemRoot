@@ -10,7 +10,9 @@
 
 <!-- Profile Counter -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/{CemRoot}/count.svg" alt="CemRoot :: Visitor's Count" />
+  <a href="https://hits.sh/github.com/CemRoot/">
+    <img src="https://hits.sh/github.com/CemRoot.svg?view=total&style=for-the-badge&label=Profile%20views&extraCount=4000&color=%232D9EF7&labelColor=1a1b27" alt="Profile views"/>
+  </a>
 </p>
 <!-- HEADER SECTION END -->
 
@@ -20,7 +22,7 @@
   <img align="left" alt="Cem's Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/cem-koyluoglu/">
-  <img align="left" alt="Cem's Linkdein" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Cem's LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="http://discordapp.com/users/yourID4371">
   <img align="left" alt="Cem's Discord" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
@@ -315,9 +317,9 @@ class CemKoyluoglu:
 <!-- GitHub Stats Cards Container -->
 <div align="center">
   <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CemRoot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CemRoot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   <!-- Top Languages Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CemRoot&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CemRoot&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
 </div>
 
 <!-- GitHub Streak Stats Container -->
@@ -330,7 +332,8 @@ class CemKoyluoglu:
 <!-- DEVCARD SECTION START -->
 <p align="center">
   <!-- Daily.dev Developer Card -->
-  <a href="https://app.daily.dev/samroot"><img src="https://api.daily.dev/devcards/v2/pmxAGhODNQGYnQgSZ5fZv.png?type=wide&r=aa2" width="652" alt="Cem koyluoglu's Dev Card"/></a>
+  <a href="https://app.daily.dev/samroot">
+    <img src="https://api.daily.dev/devcards/v2/pmxAGhODNQGYnQgSZ5fZv.png?type=wide&r=aa2" width="652" alt="Cem Koyluoglu's Dev Card"/>
   </a>
 </p>
 <!-- DEVCARD SECTION END -->
