@@ -311,24 +311,6 @@ class CemKoyluoglu:
 - 📝 Contributing to open-source AI/ML projects and writing technical blogs
 <!-- CURRENT WORK SECTION END -->
 
-<!-- GITHUB STATS SECTION START -->
-## 📊 GitHub Analytics
-
-<!-- GitHub Stats Cards Container -->
-<div align="center">
-  <!-- GitHub Stats Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CemRoot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <!-- Top Languages Card -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CemRoot&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages"/>
-</div>
-
-<!-- GitHub Streak Stats Container -->
-<div align="center">
-  <!-- Streak Stats Card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CemRoot&theme=tokyonight" alt="GitHub Streak Stats"/>
-</div>
-<!-- GITHUB STATS SECTION END -->
-
 <!-- DEVCARD SECTION START -->
 <p align="center">
   <!-- Daily.dev Developer Card -->
@@ -347,16 +329,6 @@ class CemKoyluoglu:
   <img src="https://github-profile-trophy.vercel.app/?username=CemRoot&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </div>
 <!-- ACHIEVEMENTS SECTION END -->
-
-<!-- CONTRIBUTION GRAPH SECTION START -->
-## 📈 Contribution Graph
-
-<!-- GitHub Activity Graph Container -->
-<div align="center">
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CemRoot&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</div>
-<!-- CONTRIBUTION GRAPH SECTION END -->
 
 <!-- FUN FACTS SECTION START -->
 ## 💡 Fun Facts About Me
