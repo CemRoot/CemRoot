@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="105.75" height="40" viewBox="0 0 105.75 40" fill="none" role="img" aria-labelledby="title">
+<title id="title">ORCID</title>
+<style>@font-face{font-family:'pf-sans-m';src:url(data:font/woff2;base64,d09GMgABAAAAAALUAA4AAAAABQwAAAKDAAHMzQAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbgRwcKgZgAFQRCAqDNIJxATYCJAMcCxAABCAFBgcgG8QDKI7DdGsnA47J5M1QaAT1Y/z27otpMg1JRKIimk0yrRIK6SdKharTn8+j9/6NCmuElULIKzEJk/glBefv9Nr4vLcAN/DhTCY+oX3d6UeHjQPLIowT6nkgUS+/NdK0WyQ9MzHT1fTYr8MJNAJSCFVCoN6CYPR6dGIm+h90tzWg/0lbZT36X5YqmtCPhiKDQLyobGtCLapVKdWWoVaaQGNJuEoVlB/yb0A9lH0Ayu8AiyDHhApZhwzkY1yQujmK9FpgCZWZRvzDkF/JHLBHU+IKSxECiOHCl6cRifiOUekV3/ffQuUyoQQCspO8D0apIVGBTpRAJ9oyGtVKlUZF2nHktBTAqAj1mfxBvi5fls/JZ0DE8CgF2mvXgGY04T2+AaASVAkppKSyArtZqSrTOhoGquqMNl2Xm19C56vnMjWaeaXjokgMS5L6hJCVKYpq4zyPL4KgPiFlZ/G8OrMt+MKrsdQSo2pqckh7KHR4dkIihu9Vj+qMplUi772yzZph7flIJKVem1dzua95X9h8Yfvc9qx59Es716WJPlu6rl6I5paSuZy0Xa4tdW8ur2xsbsyQa2E0Y/Iz0sKKwjy7s7I8u4tDQtjCPI2UFka/a2ka7P27A2cuHjl88sJOf1nXV5n42oXL+4b7eNVSvZCTsstxKXsLudU1i7nJexyXvLuYU11WrZgeGlLMVlcpZgmPLmveOsaVBUfnWCnXR+s9b9S56eYbcNWw61RQdICfX2xg5EEAAvHjWdXcxaVi7cD/tdrUJ+DnoaoM4NeHq55wKb/IO6QIqqWLT2kgf59Q9mh9/GxN5mAiH2Emr4ENE7D5EzN5EKz/IFBjGAMCWLUKsrICdw==) format('woff2')}.f-sansM{font-family:'pf-sans-m',ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif}
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<defs></defs>
+<rect x=".5" y=".5" width="104.75" height="39" rx="20" fill="#FFFFFF" stroke="#E5E2D9"/>
+<path transform="translate(16 11) scale(0.75)" fill="#A6CE39" d="M12 0C5.372 0 0 5.372 0 12s5.372 12 12 12 12-5.372 12-12S18.628 0 12 0zM7.369 4.378c.525 0 .947.431.947.947s-.422.947-.947.947a.95.95 0 0 1-.947-.947c0-.525.422-.947.947-.947zm-.722 3.038h1.444v10.041H6.647V7.416zm3.562 0h3.9c3.712 0 5.344 2.653 5.344 5.025 0 2.578-2.016 5.025-5.325 5.025h-3.919V7.416zm1.444 1.303v7.444h2.297c3.272 0 4.022-2.484 4.022-3.722 0-2.016-1.284-3.722-4.097-3.722h-2.222z"/>
+<text x="44" y="25" class="f-sansM" font-size="14" fill="#14151C">ORCID</text>
+</svg>
