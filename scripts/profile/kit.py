@@ -131,6 +131,19 @@ def luminance(hex_color: str) -> float:
 ICONS = json.loads((HERE / "data" / "icons.json").read_text())
 
 
+# Tools with no Simple Icons glyph get a monogram tile instead: slug -> (title, initials).
+MONOGRAMS = {
+    "openai": ("OpenAI", "AI"),
+    "groq": ("Groq", "gq"),
+    "llamaindex": ("LlamaIndex", "LI"),
+    "pinecone": ("Pinecone", "Pc"),
+}
+
+
+def tool_title(slug: str) -> str:
+    return ICONS[slug]["title"] if slug in ICONS else MONOGRAMS[slug][0]
+
+
 def icon_color(slug: str, t: dict) -> str:
     """Brand colour, swapped for the text colour when it would vanish."""
     hx = "#" + ICONS[slug]["hex"]
@@ -198,6 +211,12 @@ class Doc:
                 f' xml:space="preserve"{extra}>{"".join(spans)}</text>')
 
     def icon(self, slug, x, y, size, fill=None, extra=""):
+        if slug not in ICONS:
+            col = fill or self.t["text"]
+            return (f'<rect x="{num(x + .75)}" y="{num(y + .75)}" width="{num(size - 1.5)}" height="{num(size - 1.5)}" '
+                    f'rx="{num(size * .26)}" fill="none" stroke="{col}" stroke-width="1.5"/>'
+                    + self.text(x + size / 2, y + size * .68, MONOGRAMS[slug][1], "monoM", size * .46, col,
+                                anchor="middle", ls=-.4))
         fill = fill or icon_color(slug, self.t)
         s = size / 24
         return (f'<path transform="translate({num(x)} {num(y)}) scale({num(s)})" '

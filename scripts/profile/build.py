@@ -2,7 +2,7 @@
 """Build every animated SVG used by the profile README.
 
     python scripts/profile/build.py            # all assets, both themes
-    python scripts/profile/build.py --only stats
+    python scripts/profile/build.py --only activity
 
 Output lands in ./assets as <name>-dark.svg / <name>-light.svg; the README
 swaps between them with <picture> so each matches GitHub's colour mode.
@@ -10,6 +10,7 @@ swaps between them with <picture> so each matches GitHub's colour mode.
 from __future__ import annotations
 
 import argparse
+import base64
 import datetime as dt
 import json
 import math
@@ -18,10 +19,11 @@ from pathlib import Path
 
 import os
 
-from kit import HERE, ICONS, THEMES, Doc, measure, num, pct, wrap
+from kit import HERE, THEMES, Doc, measure, num, pct, tool_title, wrap
 
 ROOT = HERE.parents[1]
 OUT = ROOT / "assets"
+PHOTOS = HERE / "photos"
 STATS = Path(os.environ.get("PROFILE_STATS", HERE / "data" / "stats.json"))
 
 
@@ -240,9 +242,9 @@ def hero(theme):
 # --------------------------------------------------------------------------
 PHRASES = ["Retrieval-Augmented Generation", "Agentic Workflows", "LLM Evaluation", "Multimodal AI",
            "Computer Vision", "Fine-tuning", "LLMOps", "Deepfake Detection", "Prompt Engineering"]
-MARQUEE_TOOLS = ["claude", "googlegemini", "huggingface", "langchain", "ollama", "pytorch", "tensorflow",
-                 "python", "fastapi", "supabase", "postgresql", "docker", "typescript", "nextdotjs",
-                 "react", "streamlit", "gradio", "n8n", "githubactions", "vercel", "googlecloud", "opencv"]
+MARQUEE_TOOLS = ["claude", "openai", "googlegemini", "huggingface", "langchain", "langgraph", "llamaindex",
+                 "modelcontextprotocol", "ollama", "vllm", "pytorch", "python", "fastapi", "postgresql",
+                 "qdrant", "supabase", "docker", "gradio", "streamlit", "typescript"]
 
 
 def star(cx, cy, r, fill):
@@ -279,7 +281,7 @@ def marquee(theme):
     # row 2: tool pills
     pills, x = [], 0
     for slug in MARQUEE_TOOLS:
-        name = ICONS[slug]["title"].replace("Google Gemini", "Gemini").replace("Google Cloud", "GCP")
+        name = "Hugging Face" if slug == "huggingface" else LABELS.get(slug, tool_title(slug))
         pw = 18 + 20 + 9 + measure(name, "sansM", 14.5) + 18
         pills.append(f'<rect x="{num(x)}" y="94" width="{num(pw)}" height="42" rx="21" fill="{t["panel"]}" stroke="{t["line"]}"/>'
                      + d.icon(slug, x + 18, 105, 20)
@@ -665,6 +667,9 @@ def research(theme):
             ("#B07A3A", "#9C4E7E"), ("#4A6FD8", "#2AA7A0"), ("#8D5AC9", "#D06B5B")]
     verdict = [("REAL", .98), ("FAKE", .94), ("REAL", .97), ("REAL", .99), ("FAKE", .91), ("REAL", .96)]
     dur = 6.0
+    have_photos = all((PHOTOS / f"face-{i}.jpg").exists() for i in range(6))
+    d.defn('<linearGradient id="shade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#000" stop-opacity="0"/>'
+           '<stop offset="1" stop-color="#000" stop-opacity=".45"/></linearGradient>')
     d.style(f".lab{{animation:lab {dur}s ease infinite}}"
             f".heat{{animation:heat {dur}s ease infinite}}"
             f".scanr{{animation:scanr {dur}s cubic-bezier(.45,0,.55,1) infinite}}"
@@ -681,12 +686,20 @@ def research(theme):
         col = t["coral"] if lab == "FAKE" else t["c"]
         at = 5 + (c + 0.6) / 3 * 50
         d.style(f"@keyframes l{i}{{0%,{pct(at)}{{opacity:0}}{pct(at + 4)},92%{{opacity:1}}100%{{opacity:0}}}}")
-        body = (f'<g clip-path="url(#tc{i})"><rect x="{num(x)}" y="{num(y)}" width="{tile}" height="{tile}" fill="url(#{gid})" opacity=".85"/>'
-                f'<circle cx="{num(x + tile / 2)}" cy="{num(y + 38)}" r="17" fill="#fff" opacity=".28"/>'
-                f'<ellipse cx="{num(x + tile / 2)}" cy="{num(y + 96)}" rx="34" ry="30" fill="#fff" opacity=".22"/>')
+        photo = PHOTOS / f"face-{i}.jpg"
+        if photo.exists():
+            b64 = base64.b64encode(photo.read_bytes()).decode()
+            body = (f'<g clip-path="url(#tc{i})"><rect x="{num(x)}" y="{num(y)}" width="{tile}" height="{tile}" fill="url(#{gid})"/>'
+                    f'<image x="{num(x)}" y="{num(y)}" width="{tile}" height="{tile}" preserveAspectRatio="xMidYMid slice" '
+                    f'href="data:image/jpeg;base64,{b64}"/>'
+                    f'<rect x="{num(x)}" y="{num(y + tile - 34)}" width="{tile}" height="34" fill="url(#shade)"/>')
+        else:
+            body = (f'<g clip-path="url(#tc{i})"><rect x="{num(x)}" y="{num(y)}" width="{tile}" height="{tile}" fill="url(#{gid})" opacity=".85"/>'
+                    f'<circle cx="{num(x + tile / 2)}" cy="{num(y + 38)}" r="17" fill="#fff" opacity=".28"/>'
+                    f'<ellipse cx="{num(x + tile / 2)}" cy="{num(y + 96)}" rx="34" ry="30" fill="#fff" opacity=".22"/>')
         if lab == "FAKE":
             hg = f"hg{i}"
-            d.defn(f'<radialGradient id="{hg}"><stop offset="0" stop-color="{t["coral"]}" stop-opacity=".95"/>'
+            d.defn(f'<radialGradient id="{hg}"><stop offset="0" stop-color="{t["coral"]}" stop-opacity=".7"/>'
                    f'<stop offset="1" stop-color="{t["coral"]}" stop-opacity="0"/></radialGradient>')
             body += (f'<circle cx="{num(x + tile / 2 + 6)}" cy="{num(y + 36)}" r="30" fill="url(#{hg})" '
                      f'style="animation:l{i} {dur}s ease infinite"/>')
@@ -702,7 +715,7 @@ def research(theme):
     d.defn(f'<clipPath id="vis"><rect x="{vx}" y="{vy}" width="{vw}" height="{vh}" rx="14"/></clipPath>')
     d.add(f'<g clip-path="url(#vis)"><g class="scanr"><rect x="{num(gx - 24)}" y="{num(gy - 6)}" width="24" height="{num(2 * tile + gap + 12)}" fill="url(#beam)"/>'
           f'<rect x="{num(gx - 1)}" y="{num(gy - 6)}" width="2" height="{num(2 * tile + gap + 12)}" fill="{t["c"]}"/></g></g>')
-    d.add(d.text(vx + vw / 2, vy + vh - 18, "real vs. generated · attention overlay", "mono", 11, t["muted"], anchor="middle"))
+    d.add(d.text(vx + vw / 2, vy + vh - 18, ("illustrative · portraits via Unsplash" if have_photos else "real vs. generated · attention overlay"), "mono", 11, t["muted"], anchor="middle"))
 
     tx = 400
     d.add(d.text(tx, 62, "PEER-REVIEWED  ·  SPRINGER NATURE  ·  2026", "monoM", 12, t["v"], ls=1.3))
@@ -725,25 +738,35 @@ def research(theme):
 # --------------------------------------------------------------------------
 # toolbox
 # --------------------------------------------------------------------------
+# GenAI-first: what an LLM engineer actually reaches for, most-used first.
 STACK = [
-    ("LLMs & Agents", "v", ["claude", "googlegemini", "huggingface", "langchain", "ollama", "n8n"]),
-    ("Deep Learning & CV", "coral", ["pytorch", "tensorflow", "keras", "scikitlearn", "opencv", "nvidia"]),
-    ("Data & Retrieval", "c", ["postgresql", "supabase", "pandas", "numpy", "apachekafka", "jupyter"]),
-    ("Backend & APIs", "lime", ["python", "fastapi", "django", "flask", "nodedotjs", "telegram"]),
-    ("Product & Frontend", "amber", ["typescript", "react", "nextdotjs", "tailwindcss", "streamlit", "gradio"]),
-    ("Cloud & Ops", "v", ["docker", "githubactions", "vercel", "googlecloud", "cloudflare", "sentry"]),
+    ("Languages", "v", ["python", "typescript", "javascript", "sql", "gnubash", "cplusplus", "r", "julia"]),
+    ("LLMs & Model APIs", "coral", ["claude", "openai", "googlegemini", "meta", "mistralai", "ollama", "groq", "vllm"]),
+    ("Agents & Orchestration", "c", ["langchain", "langgraph", "llamaindex", "crewai", "modelcontextprotocol",
+                                     "pydantic", "n8n", "zapier"]),
+    ("RAG & Vector Search", "lime", ["pgvector", "supabase", "pinecone", "qdrant", "redis", "elasticsearch",
+                                     "neo4j", "apachekafka"]),
+    ("Training & Deep Learning", "amber", ["pytorch", "huggingface", "tensorflow", "keras", "scikitlearn",
+                                           "nvidia", "onnx", "weightsandbiases"]),
+    ("Serving & LLMOps", "v", ["fastapi", "docker", "gradio", "streamlit", "mlflow", "githubactions",
+                               "vercel", "googlecloud"]),
 ]
-SHORT = {"Google Gemini": "Gemini", "Google Cloud": "Google Cloud", "Apache Kafka": "Kafka",
-         "Node.js": "Node.js", "Tailwind CSS": "Tailwind", "scikit-learn": "scikit-learn"}
+# display labels; "sql"/"pgvector" reuse the PostgreSQL glyph
+ALIASES = {"sql": "postgresql", "pgvector": "postgresql"}
+LABELS = {"sql": "SQL", "pgvector": "pgvector", "googlegemini": "Gemini", "gnubash": "Bash", "meta": "Llama",
+          "mistralai": "Mistral", "modelcontextprotocol": "MCP", "huggingface": "Transformers",
+          "nvidia": "CUDA", "weightsandbiases": "W&B", "apachekafka": "Kafka", "googlecloud": "Google Cloud",
+          "scikitlearn": "scikit-learn"}
 
 
 def toolbox(theme):
     W, gap = 1000, 14
     tw = (W - 2 * gap) / 3
-    th = 176
+    th = 214
     H = 2 * th + gap
     d = Doc(W, H, theme, "Toolbox",
-            "; ".join(f"{name}: " + ", ".join(ICONS[s]["title"] for s in slugs) for name, _, slugs in STACK))
+            "; ".join(f"{name}: " + ", ".join(LABELS.get(s, tool_title(ALIASES.get(s, s))) for s in slugs)
+                      for name, _, slugs in STACK))
     t = d.t
     for i, (name, acc, slugs) in enumerate(STACK):
         r, c = divmod(i, 3)
@@ -752,13 +775,14 @@ def toolbox(theme):
               f'fill="{t["panel"]}" stroke="{t["line"]}"/>')
         d.add(d.text(x + 22, y + 36, f"0{i + 1}", "monoM", 11.5, t[acc]))
         d.add(d.text(x + 46, y + 37, name, "sansB", 16.5, t["text"], ls=-0.2))
+        d.add(d.text(x + tw - 22, y + 36, f"{len(slugs)} tools", "mono", 11, t["muted"], anchor="end"))
         d.add(f'<path d="M{num(x + 22)},{y + 54} H{num(x + tw - 22)}" stroke="{t["line"]}"/>')
         for k, slug in enumerate(slugs):
             rr, cc = divmod(k, 2)
             ix = x + 22 + cc * (tw - 44) / 2
             iy = y + 76 + rr * 34
-            label = SHORT.get(ICONS[slug]["title"], ICONS[slug]["title"])
-            d.add(d.icon(slug, ix, iy - 14, 19))
+            label = LABELS.get(slug, tool_title(ALIASES.get(slug, slug)))
+            d.add(d.icon(ALIASES.get(slug, slug), ix, iy - 14, 19))
             d.add(d.text(ix + 29, iy, label, "sansM", 14, t["sub"]))
     return d
 

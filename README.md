@@ -105,7 +105,7 @@ I'm Cem, a GenAI engineer based in Dublin. I build LLM agents, retrieval pipelin
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/toolbox-dark.svg">
-  <img alt="LLMs and agents: Claude, Gemini, Hugging Face, LangChain, Ollama, n8n. Deep learning and CV: PyTorch, TensorFlow, Keras, scikit-learn, OpenCV, CUDA. Data and retrieval: PostgreSQL, Supabase, pandas, NumPy, Kafka, Jupyter. Backend: Python, FastAPI, Django, Flask, Node.js, Telegram bots. Frontend: TypeScript, React, Next.js, Tailwind, Streamlit, Gradio. Cloud and ops: Docker, GitHub Actions, Vercel, Google Cloud, Cloudflare, Sentry." src="assets/toolbox-light.svg" width="100%">
+  <img alt="Languages: Python, TypeScript, JavaScript, SQL, Bash, C++, R, Julia. LLMs and model APIs: Claude, OpenAI, Gemini, Llama, Mistral, Ollama, Groq, vLLM. Agents and orchestration: LangChain, LangGraph, LlamaIndex, CrewAI, MCP, Pydantic, n8n, Zapier. RAG and vector search: pgvector, Supabase, Pinecone, Qdrant, Redis, Elasticsearch, Neo4j, Kafka. Training and deep learning: PyTorch, Transformers, TensorFlow, Keras, scikit-learn, CUDA, ONNX, Weights and Biases. Serving and LLMOps: FastAPI, Docker, Gradio, Streamlit, MLflow, GitHub Actions, Vercel, Google Cloud." src="assets/toolbox-light.svg" width="100%">
 </picture>
 
 <br>
