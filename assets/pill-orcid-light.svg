@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="105.75" height="40" viewBox="0 0 105.75 40" fill="none" role="img" aria-labelledby="title">
+<title id="title">ORCID</title>
+<style>@font-face{font-family:'pf-sans-m';src:url(data:font/woff2;base64,d09GMgABAAAAAALsAA4AAAAABQwAAAKZAAHMzQAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbgRwcKgZgAFQRCAqDNIJxATYCJAMcCxAABCAFBgcgG8QDUZQJxiuKrxJsOv8WWAMwSGDiimFxLS7I0tA+nvGnZ+UA7nBEUD/2unefQIVIZSIzEQoAJHCJXIWr0DWuwlQaIJ33h977ohITNVppJyiFkF9iEibCwXWT5s5FdSwUbvzxy39zANiAA0zQwoy/AQLKzfvk7QE38OFMJj6hPd3Xt342DiyLME6o886LuvB/HmnaLU76RCZmujo99ut2Al1ACqEmBNrm2cFXyd1TY7cFH14Ze8y+f2nsVdSnN8bgUEoI4mXchzeaqEZVqi1DU5qDY4GTqgrlp6MN5QkofwwsghwSKrIKachn6UN134qMWMAcqumN/HfklwKBHRoTF7AQ9iCGF58fr+z67vlUfjw9Ul1E6kBADnSMGWJIVDAAExiAW0RXU6qa4WLLgeMiMMNZfWZat2QhxIZHkfTaDdBHD5/xDYAqqAkppKRawW6bVUWFcRkJBVFxQhpPDgqJxEPEg4hEyeCoGo5DKnhevJb19+M4sRqGgXKWFa/lA/wZRpzYZihnxChqkCoxMdnHa0i0GKqWRyruVYvihGQpuxzdafjP0H3dE4qJ56bF9I8lj9m+G41rjUUl8lbTYKnJxagetQBkENkc6D1EZ3sNNwdHVzdXK9KZhKRbiK+3Y7ijSYG//zhYhL09FRYs4ZlJyOe3NwDV28jC6sT47MpgSXT+73+/+UCVegy5JLQGeg7RtOdwa1BCYluQxzBNewy1BSZEJwgayssFTQnxgibCo9cqZVXT0XZkoKpwCil3nSaza2hhvamYP2dLWltautu4jAJAQJdX8c03TxHSNn8iYF8AbCzeF4B/zDaj9Ms6SA51WcWn1OSvE0oL0cXPNjIQ5vLMcgsVI6j8ZTmK8g+BhikECGB1FbLyNSMAAA==) format('woff2')}.f-sansM{font-family:'pf-sans-m',ui-sans-serif,system-ui,-apple-system,'Segoe UI',sans-serif}
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<defs></defs>
+<rect x=".5" y=".5" width="104.75" height="39" rx="20" fill="#FFFFFF" stroke="#E5E2D9"/>
+<path transform="translate(16 11) scale(0.75)" fill="#A6CE39" d="M12 0C5.372 0 0 5.372 0 12s5.372 12 12 12 12-5.372 12-12S18.628 0 12 0zM7.369 4.378c.525 0 .947.431.947.947s-.422.947-.947.947a.95.95 0 0 1-.947-.947c0-.525.422-.947.947-.947zm-.722 3.038h1.444v10.041H6.647V7.416zm3.562 0h3.9c3.712 0 5.344 2.653 5.344 5.025 0 2.578-2.016 5.025-5.325 5.025h-3.919V7.416zm1.444 1.303v7.444h2.297c3.272 0 4.022-2.484 4.022-3.722 0-2.016-1.284-3.722-4.097-3.722h-2.222z"/>
+<text x="44" y="25" class="f-sansM" font-size="14" fill="#14151C">ORCID</text>
+</svg>
